@@ -27,8 +27,5 @@ Electricity Consumption Analytics using SQL, Tableau & Flask
 
 🚀 The project demonstrates how data analytics supports energy planning, grid optimization, and policy decision-making.
 
-🔗 Demo Dashboard Link:
-file:///C:/Users/jaya7/Desktop/Plugging%20into%20the%20Future%20An%20Exploration%20of%20Electricity%20Consumption%20Patterns%20Using%20Tableau/6.%20Project%20Development%20Phase/index.html
-
 🎥 Demo Video Link:
 https://drive.google.com/file/d/14FEokUtsf4Emc6nDVZfGZ8BafBjZO-bd/view?usp=sharing
